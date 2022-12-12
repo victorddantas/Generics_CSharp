@@ -8,7 +8,7 @@ Um exemplo de Utilização de Generics em C#
  na classe genérica. 
  
  
-No código de exemplo realizamos a impressão de duas informações: categorias e produtos, onde as duas utlizam da mesma classe de repositório e de métodos (generics) Porém o tipo é passado somente na classe Program. E a restrição de tipo é passada através da classe Entity, que ao ser herdada pelas classe Produto e Categoria, e passada como o tipo da classe genérica e como o tipo do método imprimir.
+No código de exemplo realizamos a impressão de duas informações: categorias e produtos, onde as duas utlizam da mesma classe de repositório e de métodos (generics) porém o tipo é passado somente na classe Program,  e a restrição de tipo é passada através da classe Entity, que ao ser herdada pelas classe Produto e Categoria, é passada como o tipo da classe genérica e como o tipo do método imprimir.
  
  
  
